@@ -1,0 +1,25 @@
+_repo: Dante-Rossetti-and-the-Pre-Raphaelite-movement_52008
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, Esther (of Hampstead)
+    alias: Wood, Esther
+    gutenberg_agent_id: '46630'
+    url: http://www.gutenberg.org/2009/agents/46630
+description: ''
+gutenberg_issued: '2016-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rossetti, Dante Gabriel, 1828-1882'
+- !lcc 'ND'
+- !lcc 'NX'
+- !lcsh 'Pre-Raphaelitism -- Great Britain'
+- GITenberg
+title: Dante Rossetti and the Pre-Raphaelite movement
+url: http://www.gutenberg.org/ebooks/52008
